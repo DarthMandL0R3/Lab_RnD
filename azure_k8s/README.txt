@@ -1,0 +1,1 @@
+This is the default placeholder for all the test environment in Azure TIM subscription
