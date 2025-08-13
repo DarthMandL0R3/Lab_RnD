@@ -15,3 +15,5 @@ This is the default placeholder for all related scripts/playbooks/documents in t
 - Gitea
 - OpenTofu
 - Azure DevOps
+
+*Please do not attach any Personally Identifiable Information (PII) and/or SECRETS into the documentations*
